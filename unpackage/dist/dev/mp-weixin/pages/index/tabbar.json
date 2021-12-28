@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "溜溜果园",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "center": "/pages/index/center",
+    "index": "/pages/index/index",
+    "message": "/pages/index/message"
+  }
+}

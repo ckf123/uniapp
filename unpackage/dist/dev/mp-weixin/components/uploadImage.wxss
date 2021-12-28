@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.Good_body_upload.data-v-371a9e22 {
+  height: 86rpx;
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  position: relative;
+}
+.Good_body_upload .Good_body_upload_left.data-v-371a9e22 {
+  line-height: 86rpx;
+  margin-left: 10rpx;
+}
+.Good_body_upload .Good_body_upload_right.data-v-371a9e22 {
+  flex: 1;
+  font-size: 16rpx;
+}
+.Good_body_upload .Good_body_upload_right .slot-btn.data-v-371a9e22 {
+  position: absolute;
+  top: 17rpx;
+  right: 10rpx;
+}
+.Good_body_preview.data-v-371a9e22 {
+  padding: 20rpx;
+}
+.Good_body_preview .imageuploaderList.data-v-371a9e22 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.Good_body_preview .imageuploaderList .pre-item-image.data-v-371a9e22 {
+  width: 100%;
+  height: 140rpx;
+}
+.Good_body_preview .imageuploaderList .imageuploader-emptytip.data-v-371a9e22 {
+  width: 200rpx;
+  position: relative;
+}
+.Good_body_preview .imageuploaderList .imageuploader-emptytip .ErrorTest.data-v-371a9e22 {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-size: 24rpx;
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+.Good_body_preview .imageuploaderList .imageuploader-emptytip .u-delete-icon.data-v-371a9e22 {
+  position: absolute;
+  top: 10rpx;
+  right: 10rpx;
+  z-index: 10;
+  background-color: #fa3534;
+  border-radius: 100rpx;
+  width: 44rpx;
+  height: 44rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

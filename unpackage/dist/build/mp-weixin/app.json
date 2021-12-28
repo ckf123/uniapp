@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/center/index",
+    "pages/message/message",
+    "pages/orderGoods/orderGoods",
+    "pages/auth/login",
+    "pages/center/baseInfo",
+    "pages/auth/regiest",
+    "pages/message/messageDetails",
+    "pages/orderGoods/baseInfoGoods/baseInfoGoods"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "溜溜果园",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#1296db",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon/home.png",
+        "selectedIconPath": "static/icon/homeA.png",
+        "text": "工作台"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "iconPath": "static/icon/message.png",
+        "selectedIconPath": "static/icon/messageA.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/center/index",
+        "iconPath": "static/icon/center.png",
+        "selectedIconPath": "static/icon/center-selected.png",
+        "text": "我"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

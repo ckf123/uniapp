@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "出库单-详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "u-divider": "/uview-ui/components/u-divider/u-divider",
+    "upload-image": "/components/uploadImage"
+  }
+}

@@ -1,0 +1,1 @@
+.regist{font-size:28rpx}.regist .regist_content{width:600rpx;margin:80rpx auto 0}.regist .regist_content .title{margin:20rpx 0;text-align:center;font-size:48rpx}.regist .regist_content input{text-align:left;margin-bottom:10rpx;padding-bottom:6rpx}.regist .regist_content .getCaptcha{background-color:#fdf3d0;color:#909399;border:none;font-size:30rpx;padding:12rpx 0}

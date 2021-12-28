@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/tabbar",
+    "pages/orderGoods/orderGoods",
+    "pages/auth/login",
+    "pages/center/baseInfo",
+    "pages/auth/regiest",
+    "pages/message/messageDetails",
+    "pages/orderGoods/baseInfoGoods/baseInfoGoods"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "溜溜果园",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "networkTimeout": {
+    "request": 30000,
+    "uploadFile": 60000,
+    "downloadFile": 60000
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap.json"
+}

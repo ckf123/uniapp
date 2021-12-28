@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.swiper.data-v-57280228 {
+  margin: 16px 15px;
+}
+.good-items.data-v-57280228 {
+  text-align: center;
+  margin-top: 24rpx;
+}
+.good-items .iconfont.data-v-57280228 {
+  font-size: 64rpx;
+  margin-bottom: 16rpx;
+}
+.good-items .icon-xiaoshoudingdan.data-v-57280228 {
+  color: #409EFF;
+}
+

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商品出库单",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 20,
+  "usingComponents": {
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "u-card": "/uview-ui/components/u-card/u-card",
+    "u-skeleton": "/uview-ui/components/u-skeleton/u-skeleton",
+    "u-divider": "/uview-ui/components/u-divider/u-divider"
+  }
+}

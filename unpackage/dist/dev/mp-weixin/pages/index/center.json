@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "u-mask": "/uview-ui/components/u-mask/u-mask",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-cell-group": "/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/uview-ui/components/u-cell-item/u-cell-item",
+    "u-modal": "/uview-ui/components/u-modal/u-modal"
+  },
+  "component": true
+}

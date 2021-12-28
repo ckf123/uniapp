@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "修改个人信息",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-cell-group": "/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/uview-ui/components/u-cell-item/u-cell-item",
+    "u-upload": "/uview-ui/components/u-upload/u-upload",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar"
+  }
+}
